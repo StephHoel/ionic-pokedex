@@ -1,5 +1,5 @@
 # dio-ionic-pokedex
-Projeto Pokedex em Ionic para o LiveCoding da DIO em 23/02 (https://www.youtube.com/watch?v=RIB68YJ6nqM)
+Projeto Pokedex em Ionic do LiveCoding da DIO em 23/02 (https://www.youtube.com/watch?v=RIB68YJ6nqM)
 
 1. Instalar o NodeJS (https://nodejs.org/en/download/) 
 2. Instalar o CLI do Ionic
